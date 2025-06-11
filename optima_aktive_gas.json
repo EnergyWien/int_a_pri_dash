@@ -401,10 +401,10 @@
     "Verbrauchspreis in Cent/kWh Netto NOE": "",
     "Verbrauchspreis in Cent/kWh Brutto Wien": "",
     "Verbrauchspreis in Cent/kWh Brutto NOE": "",
-    "Grundpreis Aktion NOE": "",
-    "Grundpreis Aktion Wien": "",
-    "Verbrauchspreis Aktion NOE": "",
-    "Verbrauchspreis Aktion Wien": "",
+    "Grundpreis Aktion NOE": "22",
+    "Grundpreis Aktion Wien": "22",
+    "Verbrauchspreis Aktion NOE": "22",
+    "Verbrauchspreis Aktion Wien": "22",
     "": ""
   }
 ]
